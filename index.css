@@ -148,6 +148,7 @@ p {
 	margin: 0 auto;
 	filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.1));
 	-webkit-filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.1));
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .app-icon p1 {
